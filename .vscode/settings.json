@@ -1,0 +1,5 @@
+{
+    "path-intellisense.showHiddenFiles": true,
+    "todo-tree.filtering.includeHiddenFiles": true,
+    "vsicons.presets.hideFolders": true
+}
